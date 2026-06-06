@@ -1,0 +1,28 @@
+# MIT License (基于教程学习项目专用版)
+
+## 1. 项目版权声明
+Copyright (c) 2026 GitHub User：PSEUDO-N
+
+本项目是基于 [虚幻5/第一人称射击游戏] (作者: [亿峥游戏], 链接: [https://www.bilibili.com/video/BV1bKk1YRE3i]) 
+学习开发的UE5蓝图项目。
+项目中部分核心逻辑参考了教程内容，但所有代码/蓝图均由本人独立实现并添加了个人创意修改。
+
+## 2. 基础许可条款
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+## 3. 免责声明
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
