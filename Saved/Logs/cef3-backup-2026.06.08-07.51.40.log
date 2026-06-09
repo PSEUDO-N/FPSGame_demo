@@ -1,0 +1,23 @@
+[19804:1216:0608/151729.242:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19804:1216:0608/151729.400:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7660:20356:0608/151755.924:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-01F12988AD3F39C243229237B44DF43E will be ignored
+[19804:26360:0608/151758.611:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[19804:1216:0608/151759.256:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19804:1216:0608/151759.257:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19804:1216:0608/151759.258:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19804:1216:0608/151759.258:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19804:26360:0608/151759.272:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[14544:6112:0608/151804.252:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[14544:6112:0608/151805.843:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[14544:14372:0608/151805.855:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[14544:14372:0608/151805.855:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[14544:14372:0608/151805.856:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13964:26300:0608/151805.954:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[13964:26300:0608/151805.966:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[13964:26300:0608/151805.966:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[13964:26300:0608/151805.966:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[14544:14372:0608/151805.966:WARNING:stun_port.cc(442)] Port[3f62c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[14544:14372:0608/151805.967:WARNING:stun_port.cc(442)] Port[3f63400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[14544:14372:0608/151805.967:WARNING:stun_port.cc(442)] Port[4028000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[23884:5092:0608/152014.590:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[19804:1216:0608/155140.174:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
